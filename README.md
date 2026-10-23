@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mauresh
 
-<!--
-**ITSMAU79-tech/ITSMAU79-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at SMVITM | Aspiring Developer
 
-Here are some ideas to get you started:
+### About Me
+- Studying at Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM)
+- Interested in software development, digital design, and video editing
+- Exploring web technologies and creative tools
+- Focused on improving my technical and creative skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,react,photoshop" alt="Java, Python, HTML, React and Photoshop" />
+</p>
+
+**Design & Video Editing**
+- Adobe Photoshop
+- Adobe After Effects
+- Adobe Premiere Pro
+- CapCut
+
+### Connect
+- GitHub: [@ITSMAU79-tech](https://github.com/ITSMAU79-tech)
